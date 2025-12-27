@@ -29,7 +29,4 @@ This project allows users to select stocks, enter quantities, calculate total in
 
 ---
 
-## 📌 How to Run
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/your-username/stock-tracker-python.git
+
